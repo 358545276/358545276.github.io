@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Hexo</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://fangchieh.github.io/"/>
+  <updated>2019-07-30T03:08:04.807Z</updated>
+  <id>https://fangchieh.github.io/</id>
+  
+  <author>
+    <name>LiuFangjie</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Http资源多线程下载</title>
+    <link href="https://fangchieh.github.io/posts/6d50677c/"/>
+    <id>https://fangchieh.github.io/posts/6d50677c/</id>
+    <published>2019-07-25T10:54:51.000Z</published>
+    <updated>2019-07-30T03:08:04.807Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h4 id=&quot;实现http资源多线程下载的小案例：&quot;&gt;&lt;a href=&quot;#实现http资源多线程下载的小案例：&quot; class=&quot;headerlink&quot; title=&quot;实现http资源多线程下载的小案例：&quot;&gt;&lt;/a&gt;实现http资源多线程下载的小案例：&lt;/h4&gt;&lt;figure
+        
+      
+    
+    </summary>
+    
+    
+      <category term="笔记" scheme="https://fangchieh.github.io/tags/%E7%AC%94%E8%AE%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>解决IDEA与Tomcat中文乱码问题</title>
+    <link href="https://fangchieh.github.io/posts/758f1330/"/>
+    <id>https://fangchieh.github.io/posts/758f1330/</id>
+    <published>2019-07-22T17:52:54.000Z</published>
+    <updated>2019-07-30T03:08:04.811Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h4 id=&quot;Tomcat控制台乱码原因：&quot;&gt;&lt;a href=&quot;#Tomcat控制台乱码原因：&quot; class=&quot;headerlink&quot; title=&quot;Tomcat控制台乱码原因：&quot;&gt;&lt;/a&gt;Tomcat控制台乱码原因：&lt;/h4&gt;&lt;p&gt;​        Windows
+        
+      
+    
+    </summary>
+    
+    
+      <category term="java" scheme="https://fangchieh.github.io/tags/java/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>多线程分割大文件</title>
+    <link href="https://fangchieh.github.io/posts/8acdd84/"/>
+    <id>https://fangchieh.github.io/posts/8acdd84/</id>
+    <published>2019-07-17T23:00:39.000Z</published>
+    <updated>2019-07-30T03:08:04.811Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h5 id=&quot;题目：使用4个子线程，把一个4G的大文件，拆分成8个文件（每个500M）。其中每个线程处理1G。&quot;&gt;&lt;a href=&quot;#题目：使用4个子线程，把一个4G的大文件，拆分成8个文件（每个500M）。其中每个线程处理1G。&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="面试题" scheme="https://fangchieh.github.io/tags/%E9%9D%A2%E8%AF%95%E9%A2%98/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Travis自动部署Hexo博客</title>
+    <link href="https://fangchieh.github.io/posts/8d89dae9/"/>
+    <id>https://fangchieh.github.io/posts/8d89dae9/</id>
+    <published>2019-06-16T21:57:39.000Z</published>
+    <updated>2019-07-30T03:08:04.807Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h4 id=&quot;1-Github中创建存储Hexo博客项目源码的仓库（空仓）&quot;&gt;&lt;a href=&quot;#1-Github中创建存储Hexo博客项目源码的仓库（空仓）&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="博客" scheme="https://fangchieh.github.io/tags/%E5%8D%9A%E5%AE%A2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hexo建立个人博客</title>
+    <link href="https://fangchieh.github.io/posts/92d7f61f/"/>
+    <id>https://fangchieh.github.io/posts/92d7f61f/</id>
+    <published>2019-06-10T22:58:52.000Z</published>
+    <updated>2019-07-30T03:08:04.803Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h4 id=&quot;1-Windows下安装Hexo&quot;&gt;&lt;a href=&quot;#1-Windows下安装Hexo&quot; class=&quot;headerlink&quot; title=&quot;1. Windows下安装Hexo&quot;&gt;&lt;/a&gt;1.
+        
+      
+    
+    </summary>
+    
+    
+      <category term="建站" scheme="https://fangchieh.github.io/tags/%E5%BB%BA%E7%AB%99/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>test</title>
+    <link href="https://fangchieh.github.io/posts/d87f7e0c/"/>
+    <id>https://fangchieh.github.io/posts/d87f7e0c/</id>
+    <published>2019-06-10T16:51:29.000Z</published>
+    <updated>2019-07-30T03:08:04.811Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;这是一个测试博客&lt;/p&gt;
+
+        
+      
+    
+    </summary>
+    
+    
+      <category term="实例" scheme="https://fangchieh.github.io/tags/%E5%AE%9E%E4%BE%8B/"/>
+    
+  </entry>
+  
+</feed>
